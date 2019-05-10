@@ -1,0 +1,4 @@
+*.dat
+results/
+!example.dat
+!88/example.out
